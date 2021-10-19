@@ -9,7 +9,7 @@ Im currently working as a web developer while I finish up my computer science un
 - Python, C++, HTML, CSS, JavaScript
 - Django, Express, Boostrap
 
-### Currently Learning 📖
+### Currently Learning 🌱
 - I’m currently working on an Internal grants management web application 
 - I’m currently learning Django Rest Framework (DRF) 
 - I’m looking to collaborate on Anything python related! 
