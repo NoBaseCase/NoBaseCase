@@ -10,8 +10,8 @@ Im currently working as a web developer while I finish up my computer science un
 - Django, Express, Boostrap
 
 ### Currently Learning 📖
-- 🔭 I’m currently working on an Internal grants management web application 
-- 🌱 I’m currently learning Django Rest Framework (DRF) 
-- 👯 I’m looking to collaborate on Anything python related! 
+- I’m currently working on an Internal grants management web application 
+- I’m currently learning Django Rest Framework (DRF) 
+- I’m looking to collaborate on Anything python related! 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/rolando-fuentes//)
