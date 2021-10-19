@@ -2,7 +2,7 @@
 
 # Rolando Fuentes 
 ### Salutations 👋
-I'm Rolando Fuentes from Texas 🤠. I enjoy building full stack web applications in Django and Express. Some of my favorite languages and C++, Python and JavaScript. 
+I'm Rolando Fuentes and I'm from Texas 🤠. I enjoy building full stack web applications in Django and Express. Some of my favorite languages and C++, Python and JavaScript. 
 Im currently working as a web developer while I finish up my computer science undergrad 💻. Feel free to check out my LinkedIn.
 
 ### Languages and Frameworks ✨
