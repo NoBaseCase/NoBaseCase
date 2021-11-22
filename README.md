@@ -7,7 +7,6 @@ Texas 🤠
 Software developer who enjoys solving problems in Django.  
 
 Im currently working as a web developer while I finish up my computer science undergrad 💻.  
-Feel free to check out my [LinkedIn](https://www.linkedin.com/in/rolando-fuentes/).
 
 ### Languages and Frameworks ✨
 - Python, C++, HTML, CSS, JavaScript
