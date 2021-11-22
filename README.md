@@ -2,8 +2,8 @@
 
 # Rolando Fuentes 
 ### Salutations 👋
-Rolando Fuentes 👨🏻 
-Texas 🤠
+Rolando Fuentes 👨🏻  
+Texas 🤠  
 Software developer who enjoys solving problems in Django. Python 🐍 and JavaScript ⚛️. 
 
 Im currently working as a web developer while I finish up my computer science undergrad 💻. Feel free to check out my LinkedIn.
