@@ -4,7 +4,7 @@
 ### Salutations 👋
 Rolando Fuentes 👨🏻  
 Texas 🤠  
-Software developer who enjoys solving problems in Django.  
+Software Developer
 
 
 ### Languages and Frameworks ✨
